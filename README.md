@@ -9,7 +9,7 @@ Primero, entré a GitHub y generé un nuevo repositorio para este ejercicio. Lue
 
 2. Cloné el repositorio en mi PC
 
-Usando la terminal, descargué el repositorio en mi computadora para poder trabajar con él.
+Usando Git Bash, descargué el repositorio en mi computadora para poder trabajar con él.
 
 3. Creé las ramas necesarias
 
